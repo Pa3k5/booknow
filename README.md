@@ -2,7 +2,7 @@
 
 Projekt za kolegij Programiranje za web
 
-**Studenti:** Patrik Kajfeš
+**Student:** Patrik Kajfeš
 
 **Tema:** Aplikacija za rezervaciju termina u frizerskim salonima.
 
